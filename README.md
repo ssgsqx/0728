@@ -1,8 +1,15 @@
 # 0728
 用来测试git
 
-##测试1
-``````
-var i =0
-``````
-var i =0
+## 代码块
+`
+  var i =0;
+  function test(){
+    return i ++ 
+  };
+  console.log(test()) // 1
+`
+***
+**粗体**
+
+*斜体*
