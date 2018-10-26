@@ -1,0 +1,28 @@
+
+/** 全局相关 */
+
+.backgroundColor {
+
+    background-color: #F5FCFF;
+}
+
+.fontFamily {
+
+    font-family: 'PingFangSC-Regular', serif;
+}
+
+.lineHeight {
+
+    line-height: 48px;
+}
+
+.button_Color {
+
+    background-color: #99CC99;
+}
+
+.disableColor {
+
+    background-color: #CCCCCC;
+}
+

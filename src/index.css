@@ -1,0 +1,84 @@
+body,div,ul,li,ol,h1,h2,h3,h4,h5,p,img,input,dl,dt,i,dd,em,b,a,textarea{
+  margin:0;padding:0;border:0;list-style:none;font-style:normal;font-weight:normal;
+  font-family:"Microsoft YaHei", arial,SimSun;
+  color: #3F3F40;text-decoration:none;
+  font-size:14px; 
+}
+body{
+  background:white;
+  /*background:white;*/
+}
+.ft12{
+  font-size:12px;
+}
+.ft16{
+  font-size:16px;
+}
+.ft18{
+  font-size:18px;
+}
+.ft20{
+  font-size:20px;
+}
+.mt10{
+  margin-top:10px;
+}
+.mt12{
+  margin-top:12px;
+}
+.mt16{
+  margin-top:16px;
+}
+.mt18{
+  margin-top:18px;
+}
+.mt20{
+  margin-top:20px;
+}
+.ml5{
+  margin-left:5px;
+}
+.ml10{
+  margin-left:10px;
+}
+.ml18{
+  margin-left:18px;
+}
+
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+.hr{
+  height:5px;
+  background: #F7F7FA;
+}
+/* 公共右三角 */
+.triangle{
+  background:url('../src/resource/images/Price_triangle.png') left top no-repeat;
+  background-size:cover;
+  width:6px;
+  height:11px;
+}
+.warningIco{
+  width:12px;
+  height:12px;
+  display:inline-block;
+  background:url('../src/resource/images/price_warning.png') left top no-repeat;
+  background-size:cover;
+}
+
+
+/* html:not([data-scale]) .am-accordion .am-accordion-item .am-accordion-header::after {
+  width: 90%;
+  margin-left: 5%;
+}
+html:not([data-scale]) .am-list-body div:not(:last-child) .am-list-line::after{
+  width: 95%;
+}
+html:not([data-scale]) .am-accordion .am-accordion-item .am-accordion-content .am-accordion-content-box::after {
+  width: 90%;
+  margin-left: 5%;
+} */

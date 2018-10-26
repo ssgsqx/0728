@@ -1,0 +1,33 @@
+.dq_imglistFooter {
+	display: block;
+	width: 100%;
+	position: fixed;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.8);
+	left: 0;
+	bottom:0px;
+	padding:10px 0;
+	z-index: 10;
+}
+.dq_imglistFooter .dq_btn {
+	width: 44%;
+	display: block;
+	float: left;
+	padding: 10px 10px;
+	margin: 0px 3%;
+	box-sizing: border-box;
+	color: #fff;
+	text-align: center;
+	background: #3f3f40;
+	font-size: 16px;
+}
+.dq_imglistFooter .dq_btn1 {
+	float: right;
+	background: #eb2432;
+}
+
+.clearfix:after {
+	clear: both;
+	content: '';
+	display: block;
+}

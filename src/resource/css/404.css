@@ -1,0 +1,39 @@
+.nf_headerTitle {
+	text-align: center;
+	padding: 13px 0;
+	border-bottom: 1px solid #dddee3;
+	position: relative;
+}
+.nf_headerTitle img {
+	width: 62px;
+}
+.nf_em_icon {
+	position: absolute;
+	top: 17px;
+	left: 20px;
+	width: 15px;
+	height: 15px;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999999;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+}
+
+.nf_dv_main {
+	position: fixed;
+	margin: 0 auto;
+	top: 30%;
+	left: 0;
+	width: 100%;
+}
+.nf_dv_main img {
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+}
+.nf_dv_main span {
+	display: block;
+	margin: 20px auto;
+	width: 120px;
+}
